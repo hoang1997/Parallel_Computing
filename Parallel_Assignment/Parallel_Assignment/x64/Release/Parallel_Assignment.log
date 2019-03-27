@@ -1,0 +1,19 @@
+﻿  FileRead.cpp
+e:\university_work\year_3\parallel_computing\assignment\parallel_assignment\parallel_assignment\fileread.cpp(42): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+e:\university_work\year_3\parallel_computing\assignment\parallel_assignment\parallel_assignment\fileread.cpp(49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MenuSystem.cpp
+e:\university_work\year_3\parallel_computing\assignment\parallel_assignment\parallel_assignment\menusystem.cpp(112): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+e:\university_work\year_3\parallel_computing\assignment\parallel_assignment\parallel_assignment\menusystem.cpp(118): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+e:\university_work\year_3\parallel_computing\assignment\parallel_assignment\parallel_assignment\menusystem.cpp(130): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+e:\university_work\year_3\parallel_computing\assignment\parallel_assignment\parallel_assignment\menusystem.cpp(136): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Parallel_Assignment.cpp
+  Generating code
+  5 of 844 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Parallel_Assignment.vcxproj -> E:\University_Work\Year_3\Parallel_Computing\Assignment\Parallel_Assignment\x64\Release\Parallel_Assignment.exe
